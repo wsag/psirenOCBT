@@ -1,0 +1,1 @@
+Probability model and post-processing notebooks associated with ES&T Water publication: "GPS-TRACKED BOTTLES IN NORTH AMERICAN RIVERS SHOW MARINE PLASTIC POLLUTION CAN ORIGINATE FROM FAR UPSTREAM" by Shan Zuidema et al. (In Press)
